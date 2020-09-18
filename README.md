@@ -7,3 +7,11 @@
 Make sure that all files, including the provided makefile are in the same folder. Compile the Langton's Ant program using the following command: make
 
 After compilation, run the program by typing: langton
+
+## Video Walkthrough
+
+Here's a walkthrough:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
