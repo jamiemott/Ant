@@ -1,12 +1,3 @@
-/******************************************************************************
-** Description : This is the class implementation file for for Ant. An ant object represents
-** an ant that moves around a game board. The class has a constructor that takes 
-** a pointer to a GameBoard at the starting location to initialize an Ant object.
-** It also has methods for getting the ant's row and column, turning the ant
-** according to the rules of Langton's Ant, and moving the ant.
-*****************************************************************************/
-
-
 #include "Ant.hpp"
 #include "GameBoard.hpp"
 #include <iostream>
